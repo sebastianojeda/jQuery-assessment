@@ -4,7 +4,7 @@ $( ".dan" ).click(function() {
 });
 
 // Event setup using a convenience method
-$( ".dan" ).click(function() {
+$( ".iwao" ).click(function() {
     alert( "Hey you clicked on me again" );
 });
 
